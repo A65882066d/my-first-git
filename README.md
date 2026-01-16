@@ -17,4 +17,4 @@ next we would like to have something in *italics*, next if you want something in
 
 to make a link you need [] and (), for example [google](https://youtube.com)
 
-last thing to do is how to include a picture [Safari](https://www.q8nitro.com/upload/listing/2025/01/2816/0a7afab0-b838-4e24-89f3-9c0d7438cd30.jpg)
+last thing to do is how to include a picture ![Safari](https://www.q8nitro.com/upload/listing/2025/01/2816/0a7afab0-b838-4e24-89f3-9c0d7438cd30.jpg)
